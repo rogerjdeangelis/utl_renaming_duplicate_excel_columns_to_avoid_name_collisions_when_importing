@@ -1,0 +1,2 @@
+# utl_renaming_duplicate_excel_columns_to_avoid_name_collisions_when_importing
+Renaming duplicate excel columns to avoid name collisions when importing.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
